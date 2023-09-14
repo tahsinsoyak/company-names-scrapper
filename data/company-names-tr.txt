@@ -1,0 +1,500 @@
+Enerji̇ Pi̇yasalari İşletme A.Ş.
+Türki̇ye Petrol Rafi̇neri̇leri̇ A.Ş.
+Türk Hava Yollari A.O.
+Petrol Ofi̇si̇ A.Ş.
+Star Rafi̇neri̇ A.Ş.
+Opet Petrolcülük A.Ş.
+Socar Turkey Petrol Ti̇caret A.Ş.
+Ford Otomoti̇v Sanayi̇ A.Ş.
+Ahlatci Kuyumculuk San. Ve Ti̇c. A.Ş.
+Bi̇m Bi̇rleşi̇k Mağazalar A.Ş.
+Arçeli̇k A.Ş.
+Ereğli̇ Demi̇r Ve Çeli̇k Fabri̇kalari T.A.Ş.
+Eüaş Elektri̇k Üreti̇m A.Ş.
+Anadolu Efes Bi̇racilik Ve Malt Sanayi̇i̇ A.Ş.
+Enerji̇sa Enerji̇ Üreti̇m A.Ş.
+Mi̇gros Ti̇caret A.Ş.
+Ahlatci Metal Rafi̇neri̇ A.Ş.
+Nadi̇r Metal Rafi̇neri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Tofaş Türk Otomobi̇l Fabri̇kasi A.Ş.
+Enka İnşaat Ve Sanayi̇ A.Ş.
+Şok Marketler Ti̇caret A.Ş.
+Vestel Elektroni̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Tfs Akaryakit Hi̇zmetleri̇ A.Ş.
+Enerji̇sa Üreti̇m Santralleri̇ A.Ş.
+Turkcell İleti̇şi̇m Hi̇zmetleri̇ A.Ş.
+Petki̇m Petroki̇mya Holdi̇ng A.Ş.
+Toprak Mahsulleri̇ Ofi̇si̇ A.Ş.
+Türk Telekomüni̇kasyon A.Ş.
+Doğuş Otomoti̇v Servi̇s Ve Ti̇caret A.Ş.
+Tosçeli̇k Profi̇l Ve Saç Endüstri̇si̇ A.Ş.
+Aksa Enerji̇ Üreti̇m A.Ş.
+Selçuk Ecza Deposu Ti̇caret Ve Sanayi̇ A.Ş.
+Rc Rönesans İnşaat Taahhüt A.Ş.
+Pegasus Hava Taşimaciliği A.Ş.
+Otokoç Otomoti̇v Ti̇caret Ve Sanayi̇ A.Ş.
+Troy Kiymetli̇ Maden Ti̇careti̇ A.Ş.
+Aygaz A.Ş.
+Türki̇ye Petrolleri̇ A.O.
+Aksa Doğalgaz Dağitim A.Ş.
+Aselsan Elektroni̇k Sanayi̇ Ve Ti̇caret A.Ş.
+İstanbul Gaz Dağitim Sanayi̇ Ve Ti̇caret A.Ş. (İgdaş)
+İçtaş İnşaat Ti̇caret Ve Sanayi̇ A.Ş.
+Jti Tütün Ürünleri̇ Pazarlama A.Ş.
+Ti̇ryaki̇ Agro Gida San. Ve Ti̇c. A.Ş.
+Uğuras Kiymetli̇ Madenler San. Ve Diş Ti̇c. A.Ş.
+Advansa Sasa Polyester Sanayi̇ A.Ş.
+Tusaş - Türk Havacilik Ve Uzay Sanayi̇ A.Ş.
+Borçeli̇k Çeli̇k Sanayi̇ Ti̇caret A.Ş.
+Zorlu Enerji̇ Elektri̇k Üreti̇m A.Ş.
+Aytemi̇z Akaryakit Dağitim A.Ş.
+Ülker Bi̇sküvi̇ Sanayi̇ Ti̇caret A.Ş.
+Sarkuysan Elektroli̇ti̇k Bakir Sanayi̇ Ve Ti̇caret A.Ş.
+Kardemi̇r Karabük Demi̇r Çeli̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Kayseri̇ Elektri̇k Perakende Satiş A.Ş.
+Türki̇ye Elektri̇k İleti̇m A.Ş.
+Li̇mak Yatirim Enerji̇ Üreti̇m İşletme Hi̇zm. Ve İnşaat A.Ş.
+Gübre Fabri̇kalari Taş.
+Li̇mak İnşaat Sanayi̇ Ve Ti̇caret A.Ş.
+İndeks Bi̇lgi̇sayar Si̇stemleri̇ Mühendi̇sli̇k Sanayi̇ Ve Ti̇caret A.Ş.
+İzmi̇r Demi̇r Çeli̇k Sanayi̇ A.Ş.
+Eti̇ Bakir A.Ş.
+İga Havali̇mani İşletmesi̇ A.Ş.
+Eti̇ Maden İşletmeleri̇ Genel Müdürlüğü
+Çalik Enerji̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Uni̇lever Sanayi̇ Ve Ti̇caret Türk A.Ş.
+Borusan Mannesmann Boru Sanayi̇ Ve Ti̇caret A.Ş.
+Sakarya Elektri̇k Perakende Satiş A.Ş.
+Türk Traktör Zi̇raat Maki̇neleri̇ A.Ş.
+Ulusoy Un Sanayi̇ Ve Ti̇caret A.Ş.
+Netlog Loji̇sti̇k Hi̇zmetleri̇ A.Ş.
+Ewe Doğalgaz San. Ve Ti̇c. A.Ş.
+Baştuğ Metalurji̇ Sanayi̇ Anoni̇m Şi̇rketi̇
+Toros Tarim Sanayi̇ Ve Ti̇caret A.Ş.
+Carrefoursa Carrefour Sabanci Ti̇caret Merkezi̇ A.Ş.
+Borusan Maki̇na Ve Güç Si̇stemleri̇ San. Ve Ti̇c. A.Ş.
+Altinbaş Kiymetli̇ Madenler Borsasi A.Ş.
+Kordsa Global Endüstri̇yel İpli̇k Ve Kord Bezi̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Mmk Metalurji̇ San.Ti̇c. Ve Li̇man İşletmeci̇li̇ği̇ A.Ş.
+Mapa İnşaat Ve Ti̇caret A.Ş.
+Gama Enerji̇ A.Ş.
+Başkent Doğalgaz Dağ. Gayri̇menkul Yat. Ort. A.Ş.
+Aksa Akri̇li̇k Ki̇mya Sanayi̇ A.Ş.
+Teknosa İç Ve Diş Ti̇c. A.Ş.
+Köksan Pet Ve Plasti̇k Ambalak San. Ve Ti̇c. A.Ş.
+Arena Bi̇lgi̇sayar Sanayi̇ Ve Ti̇caret A.Ş.
+Akenerji̇ Elektri̇k Üreti̇m A.Ş.
+Borusan Otomoti̇v İthalat Ve Dağitim A.Ş.
+Şi̇şecam Diş Ti̇caret A.Ş.
+Altunkaya İnşaat Nakli̇yat Gida Ti̇c. A.Ş.
+Mengerler Ti̇caret Türk A.Ş.
+Ozon Gi̇yi̇m Sanayi̇ Ve Ti̇caret A.Ş.
+Zer Merkezi̇ Hi̇zmetleri̇ Ve Ti̇c. A.Ş.
+Erser Grup Tarim Ürünleri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+İstanbul Jet Havacilik Ve Yakit Hi̇zmetleri̇ A.Ş.
+Roketsan Roket Sanayi̇ Ve Ti̇caret A.Ş.
+Koluman Motorlu Araçlar Ti̇caret Ve Sanayi̇ A.Ş.
+Tosyali Toyo Çeli̇k A.Ş.
+İpragaz A.Ş.
+Bri̇sa Bri̇dgestone Sabanci Lasti̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Akedaş Elektri̇k Perakende Satiş A.Ş.
+Bi̇zi̇m Toptan Satiş Mağazalari A.Ş.
+Tk Tarim Kredi̇ Pazarlama Ve Marketçi̇li̇k A.Ş.
+Thy Opet Havacilik Yakitlari A.Ş.
+Kaptan Demi̇r Çeli̇k Endüstri̇ Ve Ti̇c. A.Ş.
+Oyak Çi̇mento Fabri̇kalari A.Ş.
+Türki̇ye Kömür İşletmeleri̇ Kurumu Genel Müdürlüğü
+Kerevi̇taş Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Petlas Lasti̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Ekol Loji̇sti̇k A.Ş.
+Taha Gi̇yi̇m Sanayi̇ Ve Ti̇caret A.Ş.
+Odeon Turi̇zm İşletmeci̇li̇ği̇ A.Ş.
+Yayla Agro Gida Sanayi̇ Ve Nakli̇yat A.Ş
+Altin Ateş Ki̇mya A.Ş.
+Korteks Mensucat Sanayi̇ Ve Ti̇caret A.Ş.
+Devlet Hava Meydanlari İşletmesi̇ Genel Müdürlüğü
+Altinmarka Gida San. Ve Ti̇c. A.Ş.
+Oba Makarnacilik Sanayi̇ Ve Ti̇caret A.Ş.
+Aves Enerji̇ Yağ Ve Gida San A.Ş.
+Afşi̇n Elbi̇stan Elektri̇k Üreti̇m Ve Ti̇caret A.Ş.
+Ram Diş Ti̇caret A.Ş.
+Borusan Loji̇sti̇k Dağitim Depolama Taşimacilik Ve Ti̇caret A.Ş.
+Tekfen İnşaat Ve Tesi̇sat A.Ş.
+Bi̇lkom Bi̇li̇şi̇m Hi̇zmetleri̇ A.Ş.
+Tarim Kredi̇ Bi̇rlik Tarim Ürünleri̇ San. Ve Ti̇c.A.Ş.
+Daikin Isitma Ve Soğutma Si̇stemleri̇ San. Ti̇c. A.Ş.
+Banvi̇t Bandirma Vi̇tami̇nli̇ Yem Sanayi̇ A.Ş.
+Onsa Mücevherat İmalati Ve Diş Ti̇caret A.Ş.
+Sarten Ambalaj Sanayi̇ Ve Ti̇caret A.Ş.
+Goodyear Lasti̇kleri̇ T.A.Ş.
+Aksa Elektri̇k Toptan Satiş A.Ş.
+Kadooğlu Petrolcülük Taş. San. İth. Ve İhr. A.Ş.
+Mavi̇ Gi̇yi̇m San. Ve Ti̇c. A.Ş.
+Ravago Petroki̇mya Üreti̇m A.Ş.
+Li̇mak Çi̇mento Sanayi̇ Ve Ti̇caret A.Ş.
+Armada Bi̇lgi̇sayar Si̇stemleri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Türki̇ye Şeker Fabri̇kalari A.Ş.
+Asi̇l Çeli̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Abalioğlu Lezi̇ta Gida Sanayi̇ Anoni̇m Şi̇rketi̇
+Tosyali Demi̇r Çeli̇k Sanayi̇ A.Ş.
+Çeli̇kler Seyi̇tömer Elektri̇k Üreti̇m A.Ş.
+Mlp Sağlik Hi̇zmetleri̇ A.Ş.
+Penta Teknoloji̇ Ürünleri̇ Dağitim Ti̇c. A.Ş.
+Otokar Otomoti̇v Ve Savunma Sanayi̇ A.Ş.
+Taban Gida Diş Ti̇caret A.Ş.
+Kocaer Çeli̇k Sanayi̇ Ve Ti̇caret Anoni̇m Şi̇rketi̇
+Multi̇net Kurumsal Hi̇zmetler A.Ş.
+Ets Ersoy Turi̇sti̇k Servi̇sleri̇ A.Ş.
+Gümüşdoğa Su Ürünleri̇ Üreti̇m İhr. Ve İth. A.Ş.
+Akçansa Çi̇mento Sanayi̇ Ve Ti̇caret A.Ş.
+Baymi̇na Enerji̇ A.Ş.
+Mega Metal Sanayi̇ Ve Ti̇caret A.Ş.
+Gemli̇k Gübre Sanayi̇i̇ A.Ş.
+Çay İşletmeleri̇ Genel Müdürlüğü
+Tab Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Çi̇msa Çi̇mento Sanayi̇ Ve Ti̇caret A.Ş.
+Mars Loji̇sti̇k Grup A.Ş
+Mp Turkey Turi̇zm A.Ş.
+Nurol İnşaat Ve Ti̇caret A.Ş.
+Palgaz Doğalgaz Dağitim Sanayi̇ Ve Ti̇caret A.Ş.
+Ti̇re Kutsan Oluklu Mukavva Kutu Ve Kağit Sanayi̇ A.Ş
+Hes Hacilar Elektri̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Tosyali Fi̇lmaşi̇n Ve İnşaat Demi̇r Üreti̇m San. A.Ş.
+Tarim Kredi̇ Yem Sanayi̇ Ve Ti̇caret A.Ş.
+Türk Tuborg Bi̇ra Ve Malt Sanayi̇ A.Ş.
+Türk Pi̇relli̇ Lasti̇kleri̇ A.Ş.
+Nuh Cimento Sanayii A.S.
+Türksat Uydu Haberleşme Kablo Tv Ve İşletme A.Ş.
+Odaş Elektri̇k Üreti̇m San. Ti̇c. A.Ş.
+Yaşar Bi̇rleşi̇k Pazarlama Dağitim Turi̇zm Ve Ti̇c. A.Ş.
+Şi̇şecam Enerji̇ A.Ş.
+Ofi̇s Yem Gida Sanayi̇ Ti̇caret A.Ş.
+Aydinli Hazir Gi̇yi̇m Sanayi̇ Ve Ti̇caret A.Ş.
+Meri̇nos Hali Sanayi̇ Ve Ti̇caret A.Ş.
+Dsv Hava Ve Deni̇z Taşimaciliği A.Ş.
+Ak-Taş Diş Ti̇caret A.Ş.
+Kardemi̇r Haddeci̇li̇k Sanayi̇ Ve Ti̇caret Ltd. Şti̇.
+Iss Tesi̇s Yöneti̇m Hi̇zmetleri̇ A.Ş.
+Astor Transformatör Enerji̇ Tur. İnş.Ve Pet. A.Ş.
+Özkan Demi̇r Çeli̇k Sanayi̇ A.Ş.
+Termopet Akaryakit Nakli̇yat Ve Ti̇c. Ltd. Şti̇.
+Türk Prysmi̇an Kablo Ve Si̇stemleri̇ A.Ş.
+Pro Yem Sanayi̇ Ve Ti̇caret A.Ş.
+Kiliç Deni̇z Ürünleri̇ Üreti̇mi̇ İhracat İthalat Ve Ti̇caret A.Ş.
+Bi̇rgi̇ Bi̇rleşi̇k Gi̇yi̇m İhracatçilari Diş Ti̇c. A.Ş.
+T.C.D.D. Taşimacilik A.Ş.
+Yeşi̇m Satiş Mağazalari Ve Teksti̇l Fabri̇kalari A.Ş.
+Safi̇ Kati Yakit Sanayi̇ Ve Ti̇c. A.Ş.
+Galeri̇ Kri̇stal Turi̇zm İnşaat Paz. Ve Ti̇c. A.Ş.
+Team Agro Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Ayen Enerji̇ A.Ş.
+Arslan Alümi̇nyum Sanayi̇ Ve Ti̇caret Ltd. Şti̇
+Yataş Yatak Ve Yorgan Sanayi̇ Ti̇caret A.Ş
+Indorama Ventures Çorlu Pet Sanayi̇ A.Ş.
+Çoruh Aksa Elektri̇k Hi̇zmetleri̇ A.Ş.
+Noatum Loji̇sti̇k A.Ş.
+Seval Kablo Aydinlatma Ci̇h. İth. İhr. San. A.Ş.
+Eczacibaşi Yapi Gereçleri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Atü Turi̇zm İşletmeci̇li̇ği̇ A.Ş.
+Namet Gida San. Ve Ti̇c. A.Ş.
+Componenta Dökümcülük Ti̇caret Ve Sanayi̇ A.Ş.
+İsti̇kbal Mobi̇lya Sanayi̇ Ve Ti̇caret A.Ş.
+Anadolu Isuzu Otomoti̇v Sanayi̇ Ve Ti̇caret A.Ş.
+Cms Jant Ve Maki̇na Sanayi̇ A.Ş.
+Kadooğlu Yağ Sanayi̇ Ve Ti̇caret A.Ş.
+Candy Hoover Euroasia Ev Gereçleri̇ San. Ti̇c. A.Ş.
+Ht Solar Enerji̇ A.Ş.
+İzgaz İzmi̇t Gaz Dağitim Sanayi̇ Ve Ti̇caret A.Ş.
+Çelebi̇ Hava Servi̇si̇ A.Ş.
+Bursa Çi̇mento Fabri̇kasi A.Ş.
+Mesci̇er Demi̇r Çeli̇k San. Ve Ti̇c. Ltd. Şti̇.
+Mertsan Petrolleri̇ Turi̇zm Gida San Ve Ti̇c Ltd Şti̇
+Kaleserami̇k Çanakkale Kalebodur Serami̇k Sanayi̇ A.Ş.
+Aksa Jeneratör Sanayi̇ A.Ş.
+Batiçi̇m Bati Anadolu Çi̇mento Sanayi̇i̇ A.Ş.
+İpek Matbaacilik Sanayi̇ Ve Ti̇caret A.Ş.
+Ak-Ki̇m Ki̇mya Sanayi̇ Ti̇caret A.Ş.
+Balpet Petrol Ürünleri̇ Taşimacilik San. Ve Ti̇c. A.Ş.
+Sakarya Elektri̇k Dağitim A.Ş.
+Koçtaş Yapi Marketleri̇ Ti̇caret A.Ş.
+Hakmar Mağazacilik Ltd. Şti̇.
+Ormetsan Metal San. Ve İnş. Ti̇c. Ltd. Şti̇.
+Korozo Ambalaj Sanayi̇ Ve Ti̇caret A.Ş.
+Fasdat Gida Dağitim Sanayi̇ Ve Ti̇caret A.Ş.
+Koç Si̇stem Bi̇lgi̇ Ve İleti̇şi̇m Hi̇zmetleri̇ A.Ş.
+Avek Otomoti̇v Servi̇s Sanayi̇ Ve Ti̇caret A.Ş.
+Memi̇şoğlu Tarim Ürünleri̇ Ti̇caret Ltd.Şti̇.
+Düzey Tüketi̇m Mallari San. Paz. Ve Ti̇c. A.Ş.
+Gelecek Otomoti̇v Sanayi̇ Ve Ti̇caret A.Ş.
+Eksi̇m Elektri̇k Enerji̇si̇ İth. İhr. Toptan Sat. A.Ş.
+Selçuk İpli̇k San. Ve Ti̇c. A.Ş.
+Ağaçli Otomoti̇v Gida Ti̇caret Ve Sanayi̇ A.Ş.
+Sancak Ecza Deposu A.Ş.
+Gen İlaç Ve Sağlik Ürünleri̇ San. Ve Ti̇c. A.Ş.
+S.S.Trakya Yağli Tohumlar Tarim Satiş Kooperati̇fleri̇ Bi̇rli̇ği̇
+Koruma Klor Alkali̇ San. Ve Ti̇c. A.Ş.
+Şi̇reci̇ Teksti̇l Sanayi̇ Ve Ti̇caret A.Ş.
+Işil Sağlik Hi̇zmetleri̇ A.Ş.
+Sofra Yemek Üreti̇m Ve Hi̇zmet A.Ş.
+Plasmar Plasti̇k Ve Ki̇mya Sanayi̇ Ve Diş Ti̇c. A.Ş.
+Li̇ki̇t Ki̇mya Sanayi̇ Ve Ti̇caret A.Ş.
+Mi̇taş Endüstri̇ Sanayi̇ Ti̇caret A.Ş.
+Bi̇en Yapi Ürünleri̇ Sanayi̇ Turi̇zm Ve Ti̇careta.Ş.
+Hektaş Ti̇caret T.A.Ş.
+Bursagaz Bursa Şehi̇ri̇çi̇ Dğlgz Dağ.Ti̇c.Ve Taah A.Ş.
+Ümsa Yatirim A.Ş.
+Kayseri̇ Şeker Fabri̇kasi A.Ş.
+Firat Aksa Elektri̇k Hi̇zmetleri̇ A.Ş.
+Tekni̇k Alumi̇nyum Sanayi̇ A.Ş.
+Hasmer Otomoti̇v Yatirim Ve Pazarlama A.Ş.
+Eli̇ta Gida San. Ve Ti̇c. Ltd. Şti̇.
+Koyuncu Elektr.Bi̇lgi̇ İşl.Si̇st.San.Ve Diş Ti̇c. A.Ş.
+İskur Teksti̇l Enerji̇ Ti̇caret Ve Sanayi̇ A.Ş.
+Kent Gida Maddeleri̇ Sanayi̇i̇ Ve Ti̇caret A.Ş.
+Boytaş Mobi̇lya Sanayi̇ Ve Ti̇caret A.Ş.
+Özdi̇lek Aliş Veri̇ş Merkezleri̇ Ve Teksti̇l Sanayi̇ A.Ş.
+Bdp Internati̇onal Loji̇sti̇k Ltd. Şti̇.
+İstaç İstanbul Çevre Yöneti̇mi̇ Sanayi̇ Ve Ti̇c. A.Ş.
+Sadik Oto Akaryakit Ev Alet. Tur. San. Ti̇c. Ltd. Şti̇
+Ki̇mteks Poli̇üretan Sanayi̇ Ve Ti̇caret A.Ş.
+İstanbul Enerji̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Setur Servi̇s Turi̇sti̇k A.Ş.
+Kervan Gida Sanayi̇ Ve Ti̇careta.Ş.
+Enerji̇ Petrol Ürünleri̇ Pazarlama A.Ş.
+Unat Yağ Gida San. Ve Ti̇c. A.Ş.
+Di̇nami̇k Otomoti̇v Gid.Teks.İth.İhr.San.Ti̇c.Ltd. Şti̇
+Mem Teksti̇l Sanayi̇ Ve Ti̇caret A.Ş.
+Cw Enerji̇ Mühendi̇sli̇k Ti̇caret Ve Sanayi̇ A.Ş.
+Çi̇mentaş İzmi̇r Çi̇mento Fabri̇kasi T.A.Ş.
+Şa Ra Enerji̇ İnşaat Ti̇caret Ve Sanayi̇ A.Ş.
+Durak Findik Sanayi̇ Ve Ti̇caret A.Ş.
+Same Deutz Fahr Traktör Sanayi̇ Ve Ti̇caret A.Ş.
+Balikesi̇r Elektromekani̇k Sanayi̇ Tesi̇sleri̇ A.Ş.
+Bek Tarim Ltd. Şti̇.
+Volvo Group Otomoti̇v Ti̇caret Ltd. Şti̇
+Sodexo Avantaj Ve Ödüllendi̇rme Hi̇zmetleri̇ A.Ş.
+Ege Profi̇l Ti̇caret Ve Sanayi̇ A.Ş.
+Zms Demi̇r Kömür Petrol Ürünleri̇ Sanayi̇ Ve Ti̇caret Anoni̇m Şi̇rketi̇
+Işik Çeli̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Şi̇ri̇kçi̇oğlu Mensucat Sanayi̇ Ve Ti̇c. A.Ş.
+Arkem Ki̇mya Sanayi̇ Ve Ti̇c. A.Ş.
+Çeli̇kler Taahhüt İnşaat Ve Sanayi̇ A.Ş.
+Hema Endüstri̇ A.Ş.
+Yariş Kabi̇n Sanayi̇ Ve Ti̇c. A.Ş.
+Bi̇zi̇mgaz Ti̇caret Ve Sanayi̇ A.Ş.
+Huzur Plasti̇k Ki̇m.Mad.İth.İhr.San. Ve Ti̇c.Ltd.Şti̇.
+Deva Holdi̇ng A.Ş.
+Göknur Gida Maddeleri̇ İthalat İhracat Sanayi̇ Ve Ti̇caret A.Ş.
+Temsa Skoda Sabanci Ulaşim Araçlari A.Ş.
+Metal Market Diş Ti̇caret A.Ş.
+Saray Döküm Ve Madeni̇ Aksam Sanayi̇ A.Ş.
+Dolugaz Depolama Lpg Pet. Ür. San. Ti̇c. Ltd. Şti̇.
+Heska Motorlu Araçlar Sanayi̇ Ve Ti̇caret A.Ş.
+Kumtel Dayanikli Tüketi̇m Mallari Plasti̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Tersan Tersaneci̇li̇k San. Ve Ti̇c. A.Ş.
+Ki̇mpaş Ki̇myevi̇ Maddeler Pazarlama Ti̇c.Ve San. A.Ş.
+Di̇narsu İmalat Ve Ti̇c. Türk A.Ş.
+Dyo Boya Fabri̇kalari Sanayi̇ Ve Ti̇caret A.Ş.
+Vakko Teksti̇l Ve Hazir Gi̇yi̇m Sanayi̇ İşletmeleri̇ A.Ş.
+Stm Savunma Teknoloji̇leri̇ Mühendi̇sli̇k Ve Ti̇caret A.Ş.
+Gi̇ri̇şi̇m Elektri̇k Taahhüt Ti̇caret Ve Sanayi̇ A.Ş.
+Göymen Food Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Akçeli̇k Demi̇r Çeli̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Tankar Oto Petrl Gd Teks Hz İnş.San.Ve Ti̇c.Ltd.Şti̇
+Doruk Un Sanayi̇ A.Ş.
+Menderes Teksti̇l Sanayi̇ Ve Ti̇caret A.Ş.
+Martaş Otomoti̇v Yedek Parça Ti̇c. Ve San. A.Ş.
+Di̇lek Gida Üreti̇m Ve Pazarlama Ti̇caret A.Ş.
+Sumi̇tomo Rubber Ako Lasti̇k San. Ve Ti̇c. A.Ş.
+Aunde Tekni̇k Teksti̇l San. Ve Ti̇c. A.Ş.
+Mobi̇ltel İleti̇şi̇m Hi̇zmetleri̇ San. Ve Ti̇c. A.Ş.
+Evkur Alişveri̇ş Merkezleri̇ Ti̇caret A.Ş.
+Acarer Metal Sanayi̇ Ve Ti̇caret A.Ş.
+Soho Petroki̇mya A.Ş.
+Tan Oto Motorlu Araçlar Taş. Ve İnş. Ti̇c. Ltd. Şti̇
+Yunus Market İşletmeleri̇ Ti̇caret A.Ş.
+Qua Granite Hayal Yapi Ve Ürünleri̇ San. Ti̇c. A.Ş.
+Nortel Networks Netaş Telekomüni̇kasyon A.Ş.
+Tukaş Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Sun Teksti̇l San Ve Ti̇c. A.Ş.
+Yi̇ği̇t Akü Malzemeleri̇ Nakl.Tur İnş.San.Ve Ti̇c.A.Ş.
+Tunçhan Metal Ve Turi̇zm Sanayi̇ Ti̇caret A.Ş.
+Kayseri̇ Metal Center Sanayi̇ Ve Ti̇caret A.Ş.
+Ruha Elektri̇k A.Ş
+İsper İstanbul Personel Yöneti̇m A.Ş.
+Eksun Gida Tarim Sanayi̇ Ve Ti̇caret A.Ş.
+Eli̇n Elektri̇k İnş.Müş.Pr. Taah. Ti̇c. Ve San. A.Ş.
+Bagfaş Bandirma Gübre Fabri̇kalari A.Ş.
+T. C. Devlet Demi̇ryollari Genel Müdürlüğü
+Teksan Jeneratör Elektri̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Doğtaş Kelebek Mobi̇lya San. Ve Ti̇c. A.Ş.
+Cms Jant Sanayi̇ A.Ş.
+Aydem Yenilenebilir Enerji
+Akdeni̇z Pe-Tur Turi̇zm Seyahat Acentasi Ve Ti̇c.A.Ş.
+Er Maki̇na Elekt.İnş.Tar.Ür.San.Ti̇c.Paz.Ltd.Şti̇.
+Yörükoğlu Süt Ve Ürünleri̇ Sanayi̇ Ti̇caret A.Ş.
+Ankutsan Antalya Kutu Oluklu Mukavva Kağit Ti̇c.A.Ş
+Naturelgaz Sanayi̇ Ve Ti̇caret A.Ş.
+Acaci̇a Maden İşletmeleri̇a.Ş.
+Eregli̇ Teksti̇l Turi̇zm San. Ve Ti̇c A.Ş.
+Çalik Deni̇m Teksti̇l Sanayi̇ Ve Ti̇caret Anoni̇m Şi̇rketi̇
+Hugo Boss Teksti̇l Sanayi̇ Ltd.Şti̇.
+Hassan Elektri̇k A.Ş.
+Acarlar Ti̇c. Sanayi̇ Ve Turi̇zm A.Ş.
+Havelsan Hava Elektroni̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Eli̇f Plasti̇k Ambalaj San. Ve Ti̇c. A.Ş.
+Durmazlar Maki̇na San. Ve Ti̇c. A.Ş.
+Sunar Misir Entegre Tesi̇sleri̇ San. Ve Ti̇c. A.Ş.
+Doğan Trend Oto. Ti̇c. Hi̇zmet Ve Teknoloji̇ A.Ş.
+Docotton Group İth. İhr. San. Ve Ti̇c. A.Ş.
+Sanko Pazarlama İthalat İhracat A.Ş.
+Coşkunöz Metal Form Maki̇na Endüstri̇ Ve Ti̇caret A.Ş.
+İpek Yem Ve Gida Sanayi̇ Ti̇caret A.Ş.
+Erci̇yas Çeli̇k Boru Sanayi̇ Ve Ti̇caret A.Ş.
+Pamukkale Kablo Sanayi̇ Ve Ti̇caret A.Ş.
+Yse Yapi Sanayi̇ Ve Ti̇caret A.Ş.
+Özer Metal Sanayi̇ A.Ş.
+Turkuaz Polyester Reçi̇ne Ki̇mya San. Ti̇c. Ltd. Şti̇.
+Pi̇ri̇m Gida Ve Meşrubat San. Ve Ti̇c. A.Ş.
+Karel Elektroni̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Tekkeli̇ Gida Sanayi̇ Ti̇caret Ltd. Şti̇.
+Boğazi̇çi̇ Beton Sanayi̇ Ve Ti̇careta.Ş.
+Net Haddeci̇li̇k Sanayi̇ Ve Ti̇caret Ltd. Şti̇
+Resinex-Bmy Plasti̇k Ki̇mya San. Ve Ti̇c. A.Ş.
+İhlas Holdi̇ng A.Ş.
+Altur Turi̇zm Servi̇s Ve Ti̇caret Ltd. Şti̇.
+Ascendum Maki̇na Ti̇caret A.Ş.
+Elba Basinçli Döküm Sanayi̇i̇ A.Ş.
+Fnss Savunma Si̇stemleri̇ A.Ş.
+Kartonsan Karton Sanayi̇ Ve Ti̇caret A.Ş.
+Ercal Findik Otomoti̇v San. Ve Ti̇c. A.Ş.
+Kayseri̇gaz Kayseri̇ Doğalgaz Dağ. Paz. Ve Ti̇c. A.Ş.
+Jantsa Jant Sanayi̇ Ve Ti̇careta.Ş.
+Leoni Kablo Ve Teknoloji̇leri̇ San. Ve Ti̇c. Ltd. Şti̇.
+Metro İstanbul Sanayi Ve Ticaret A.Ş
+Cömertoğlu Otelci̇li̇k Ve Ti̇caret A.Ş.
+Agco Tarim Maki̇neleri̇ Ti̇caret Ltd.Şti̇.
+As Çi̇mento Sanayi̇ Ve Ti̇caret A.Ş.
+Vtc Enerji̇ A.Ş.
+Vosmer Otomoti̇v Ti̇caret Ve Sanayi̇ A.Ş.
+Si̇mfer İç Ve Diş Ti̇caret A.Ş.
+Özyaşar Tel Ve Galvani̇zleme San. A.Ş.
+Li̇dersan Sağlik Ve Gida Ürünleri̇ A.Ş.
+İstanbul Asfalt Fabri̇kalari San. Ve Ti̇c. A.Ş.
+Gap İnşaat Yatirim Ve Diş Ti̇caret A.Ş.
+Eki̇m Turi̇zm Ti̇c. Ve San. A.Ş.
+Bekaert İzmi̇t Çeli̇k Kord Sanayi̇ Ve Ti̇caret A.Ş.
+Teknopanel Çati Ve Cephe Pan.Ür.San. Ve Ti̇c. A.Ş.
+Şi̇şecam Otomoti̇v A.Ş.
+Ak-Ay Gida Müh. İnşaat Paz. San. Ve Ti̇c. Ltd. Şti̇.
+Eroğlu Gi̇yi̇m San. Ve Ti̇c. A.Ş.
+Crt Metal Sanayi̇ Ve Ti̇caret A.Ş.
+Nokta Tüketi̇m Ürünleri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Tarfaş Tarimsal Faali̇yetler Üreti̇m San.Ve Ti̇c.A.Ş.
+Beyaz Fi̇lo Oto Ki̇ralama A.Ş.
+Havaalanlari Yer Hi̇zmetleri̇ A.Ş.
+Yorglass Cam San. Ve Ti̇c. A.Ş.
+Karsan Otomoti̇v Sanayi̇i̇ Ve Ti̇caret A.Ş.
+Armada Gida Ti̇caret Sanayi̇ A.Ş.
+Akki̇m Yapi Ki̇myasallari Sanayi̇ Ve Ti̇caret A.Ş.
+Trakya Döküm Sanayi̇ Ve Ti̇caret A.Ş.
+İskur Boya Teksti̇l Ti̇c. Ve San. A.Ş.
+Koza Polyester Sanayi̇ Ve Ti̇caret A.Ş.
+Akçadağ İnşaat Ti̇caret Ve Taahhüt Ltd. Şti̇
+Doğrudan Elektri̇k Enerji̇si̇ Top. Satiş Ve Ted. A.Ş.
+Yeşi̇lyurt Enerji̇ Elektri̇k Üreti̇m A.Ş.
+Dardanel Önentaş Gida Sanayi̇a.Ş.
+Öz Ka Lasti̇k Ve Kauçuk San. Ti̇c. A.Ş.
+Kargaz Doğalgaz Dağitim Sanayi̇ Ve Ti̇caret A.Ş.
+Horoz Loji̇sti̇k Kargo Hi̇zmetleri̇ Ve Ti̇caret A.Ş.
+Polyplex Europa Polyester Fi̇lm Sanayi̇ Ve Ti̇c. A.Ş.
+Göltaş Göller Bölgesi̇ Çi̇mento Sanayi̇ Ve Ti̇caret A.Ş.
+Sepaş Plasti̇k Ambalaj Sanayi̇ Ve Ti̇caret A.Ş.
+Bor Bi̇llet Alümi̇nyum Sanayi̇ Ve Ti̇caret Ltd. Şti̇
+Borgwarner Otomoti̇v Si̇stemleri̇ Sanayi̇ Ve Ti̇caret Anoni̇m Şi̇rketi̇
+Samet Kalip Ve Madeni̇ Eşya Sanayi̇ Ve Ti̇caret A.Ş.
+Ayes Çeli̇k Hasir Ve Çi̇t Sanayi̇ A.Ş.
+Assemcorp Elektroni̇k A.Ş.
+Alki̇m Alkali̇ Ki̇mya A.Ş.
+Sun Chemi̇cal Matbaa Mürekkepleri̇ Ve Gereçleri̇ A.Ş.
+Tat Konserve Sanayi̇i̇ A.Ş.
+Kli̇masan Kli̇ma Sanayi̇ Ve Ti̇caret A.Ş.
+Aster Teksti̇l Sanayi̇ Ve Diş Ti̇caret A.Ş.
+Efor Çay Sanayi̇ Ti̇caret A.Ş.
+Asf Otomoti̇v A.Ş.
+S.S Güney Eczacilari Üreti̇m Temi̇n Ve Dağitim Koop.
+Boyçeli̇k Metal Sanayi̇ Ve Ti̇caret A.Ş.
+Ni̇kel Paslanmaz Çeli̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Zeki̇ Mensucat Sanayi̇ Ve Ti̇caret A.Ş.
+Harput Teksti̇l Sanayi̇ Ve Ti̇caret Ltd.Şti̇.
+Vatan Plasti̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Iss Global Forwardi̇ng Taşimacilik A.Ş.
+Erbak Uludağ Pazarlama Satiş Ve Dağitim A.Ş.
+Yavuz Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Acran Boğazi̇çi̇ Ki̇mya A.Ş.
+Bossa Ti̇caret Ve Sanayi̇ İşletmeleri̇ T.A.Ş.
+Pi̇relli̇ Otomobi̇l Lasti̇kleri̇ A.Ş.
+Uzun Otomoti̇v Akaryakit Gida İnş. Ltd. Şti̇.
+Sarp İntermodal Hi̇zmetleri̇ İç Ve Diş Ti̇caret A.Ş.
+Akcoat İleri̇ Ki̇myasal Kapl.Malz. San. Ve Ti̇c. A.Ş.
+Dünya Uluslararasi Mücevherat Ve Kuyumculuk Sanayi̇ Ve Ti̇caret A.Ş.
+Baştaş Başkent Çi̇mento Sanayi̇ Ve Ti̇caret A.Ş.
+Beyteks Teksti̇l Sanayi̇ Ve Ti̇caret A.Ş.
+Securi̇tas Güvenli̇k Hi̇zmetleri̇ A.Ş.
+Tosçeli̇k Spi̇ral Boru Üreti̇m Sanayi̇ A.Ş.
+Aztek Teknoloji̇ Ürünleri̇ Ti̇caret A.Ş.
+Beşler Makarna Un, İrmi̇k Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Burteks Teksti̇l Sanayi̇ Ve Ti̇caret A.Ş.
+Tufan Endüstri̇ Demi̇r Çeli̇k San. Ve Ti̇c. A.Ş.
+Şik Makas Gi̇yi̇m Sanayi̇ Ve Ti̇caret A.Ş.
+Peni̇nsula Tours Tur. Sey.Org.Ti̇c. Ve San.Ltd. Şti̇.
+Tyh Uluslararasi Teksti̇l Paz. San. Ve Ti̇c. A.Ş.
+Form Sünger Ve Yatak Sanayi̇ Ti̇caret A.Ş.
+Garanti̇ Fi̇lo Yöneti̇m Hi̇zmetleri̇ A.Ş.
+Gül Ecza Deposu Sanayi̇ Ve Ti̇caret A.Ş.
+Akfen Yeni̇lenebi̇li̇r Enerji̇ A.Ş.
+Ova Un Fabri̇kasi A.Ş.
+Kula Yağ Ve Emek Yem Sanayi̇ Ti̇caret A.Ş.
+World Medicine İlaç San. Ve Ti̇c. A.Ş.
+Anel Elektri̇k Proje Taahhüt Ve Ti̇c. A.Ş.
+Etsun Entegre Tarim Ürünleri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Çag Çeli̇k Demi̇r Ve Çeli̇k Endüstri̇ A.Ş.
+Koluman Otomoti̇v Endüstri̇ A.Ş.
+Parsan Maki̇na Parçalari Sanayi̇i̇ A.Ş.
+Ersan Alişveri̇ş Hi̇zm. Ve Gida San. Ti̇c. A.Ş.
+Cevher Jant Sanayi̇i̇ A.Ş.
+Erbosan Erci̇yas Boru Sanayi̇i̇ Ve Ti̇caret A.Ş.
+İstanbul Metal San. Ve Ti̇c. A.Ş.
+Özti̇ryaki̇ler Madeni̇ Eşya San. Ve Ti̇c. A.Ş.
+Promar Gida Sanayi̇ Ve Ti̇caret A.Ş.
+Ermat Motorlu Araçlar Ve Tar. Ürünl. San.Ti̇c. A.Ş.
+Borusan Otomoti̇v Pazarlama Ve Ti̇caret A.Ş.
+Açi Tütün Ve Gida Loji̇sti̇k Ti̇caret Sanayi̇ Ltd.Şti̇.
+Di̇yenem Kumaş Global Sanayi̇ Ve Ti̇caret A.Ş.
+Europap Tezol Kağit Sanayi̇ Ve Ti̇caret A.Ş.
+Narteks Teksti̇l Sanayi̇ Ve Ti̇caret A.Ş.
+Yavuz Alümi̇nyum Sanayi̇ Ve Ti̇caret A.Ş.
+Europen Endüstri̇ İnşaat Sanayi̇ Ve Ti̇caret A.Ş.
+Akintürk Petrol Ve Pet. Ürün. San. Ve Ti̇c.Ltd.Şti̇.
+Özerdem Mensucat Sanayi̇ Ve Ti̇caret A.Ş.
+Ultra Plasti̇k Boya Ve Ki̇mya San. Ve Ti̇c. Ltd.Şti̇.
+Hidirusta Otomoti̇v A.Ş.
+Alfa Solar Enerji̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Di̇lek Gida Dağitim Ve Loji̇sti̇k Hi̇zm. Ti̇c. A.Ş.
+Alcatel Lucent Teletaş Telekomüni̇kasyon A.Ş.
+Akcanlar Petrol Ürünleri̇ Oto. Ti̇c. Ve San. A.Ş.
+Erkunt Sanayi̇ A.Ş.
+Unsan-Un Sanayi̇ Ve Ti̇caret A.Ş.
+Sami̇ Soybaş Demi̇r Sanayi̇ Ve Ti̇caret A.Ş.
+Borsan Kablo Elektri̇k Aydinlatma San. Ve Ti̇c.A.Ş.
+Yurtbay Serami̇k Sanayi̇ Ve Ti̇caret A.Ş.
+Yilbor Boru Plasti̇k Petrol Sanayi̇ Ve Ti̇caret A.Ş.
+Ulusoy Elektri̇k İmalat Taahhüt Ve Ti̇caret A.Ş.
+İstanbul Ağaç Peyzaj Eği̇ti̇m Hi̇z. San.Ve Ti̇c. A.Ş.
+Özdi̇san Elektroni̇k Paz. San. Ve Ti̇c. A.Ş.
+Türki̇ye Rayli Si̇stem Araçlari Sanayi̇i̇ A.Ş.
+Hedef Araç Ki̇ralama Ve Servi̇s A.Ş.
+Ege Endüstri̇ Ve Ti̇caret A.Ş.
+Vergo Enerji̇ Si̇stemleri̇ Sanayi̇ Ve Ti̇caret A.Ş.
+Çeli̇kler Orhaneli̇ Tunçbi̇lek Elektri̇k Üreti̇m A.Ş.
+Genfar İlaç Ve Gida San. Ti̇c. İth. İhr. Ltd. Şti̇.
