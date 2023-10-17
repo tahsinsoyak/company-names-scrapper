@@ -1,0 +1,184 @@
+Abkhaz, Abhazca, аҧсуа бызшәа, аҧсшәа, ab, abk
+Afar, Afar dili, Afaraf, aa, aar
+Afrikaans, Afrikaans, Afrikaans, af, afr
+Akan, Akan dili, Akan, ak, aka
+Albanian, Arnavutlukça, Shqip, sq, sqi
+Amharic, Amharic dili, አማርኛ, am, amh
+Arabic, Arapça, العربية, ar, ara
+Aragonese, Aragon dili, aragonés, an, arg
+Armenian, Ermenice, Հայերեն, hy, hye
+Assamese, Asamez dili, অসমীয়া, as, asm
+Avaric, Avar dili, авар мацӀ, магӀарул мацӀ, av, ava
+Avestan, Avestan dili, avesta, ae, ave
+Aymara, Aymara dili, aymar aru, ay, aym
+Azerbaijani, Azerbaycanca, azərbaycan dili, az, aze
+Bambara, Bamana dili, bamanankan, bm, bam
+Bashkir, Bashkir dili, башҡорт теле, ba, bak
+Basque, Bask dili, euskara, euskera, eu, eus
+Belarusian, Belarusça, беларуская мова, be, bel
+Bengali, Bangla, Bengalce / Bangla, বাংলা, bn, ben
+Bihari, Bihari, भोजपुरी, bh, bih
+Bislama, Bislama dili, Bislama, bi, bis
+Bosnian, Bosnaca, bosanski jezik, bs, bos
+Breton, Breton dili, brezhoneg, br, bre
+Bulgarian, Bulgarca, български език, bg, bul
+Burmese, Birmanca, ဗမာစာ, my, mya
+Catalan, Katalanca, català, ca, cat
+Chamorro, Chamorro dili, Chamoru, ch, cha
+Chechen, Chechen dili, нохчийн мотт, ce, che
+Chichewa, Chewa, Nyanja, Chichewa, Chewa, Nyanja, chiCheŵa, chinyanja, ny, nya
+Chinese, Çince, 中文 (Zhōngwén), 汉语, 漢語, zh, zho
+Chuvash, Chuvash dili, чӑваш чӗлхи, cv, chv
+Cornish, Cornish dili, Kernewek, kw, cor
+Corsican, Korsika dili, corsu, lingua corsa, co, cos
+Cree, Cree dili, ᓀᐦᐃᔭᐍᐏᐣ, cr, cre
+Croatian, Hırvatca, hrvatski jezik, hr, hrv
+Czech, Czech, čeština, český jazyk, cs, ces
+Danish, Danish, dansk, da, dan
+Divehi, Dhivehi, Maldivian, Divehi, Dhivehi, Maldivian, ދިވެހި, dv, div
+Dutch, Dutch, Nederlands, Vlaams, nl, nld
+Dzongkha, Dzongkha dili, རྫོང་ཁ, dz, dzo
+English, İngilizce, English, en, eng
+Esperanto, Esperanto, Esperanto, eo, epo
+Estonian, Estonian, eesti, eesti keel, et, est
+Ewe, Ewe dili, Eʋegbe, ee, ewe
+Faroese, Faroe dili, føroyskt, fo, fao
+Fijian, Fijice, vosa Vakaviti, fj, fij
+Finnish, Finnish, suomi, suomen kieli, fi, fin
+French, Fransızca, français, langue française, fr, fra
+Fula, Fulah, Pulaar, Pular, Fula, Fulah, Pulaar, Pular, Fulfulde, Pulaar, Pular, ff, ful
+Galician, Galiçya Dili, galego, gl, glg
+Georgian, Gürcüce, ქართული, ka, kat
+German, Almanca, Deutsch, de, deu
+Greek (modern), Yunanca (Modern), ελληνικά, el, ell
+Guaraní, Guaraní, Avañe'ẽ, gn, grn
+Gujarati, Gujarati dili, ગુજરાતી, gu, guj
+Haitian, Haitian Creole, Haiti, Haiti Creole, Kreyòl ayisyen, ht, hat
+Hausa, Haussa Dili, (Hausa) هَوُسَ, ha, hau
+Hebrew (modern), İbranice (modern), עברית, he, heb
+Herero, Herero dili, Otjiherero, hz, her
+Hindi, Hindi, हिन्दी, हिंदी, hi, hin
+Hiri Motu, Hiri Motu dili, Hiri Motu, ho, hmo
+Hungarian, Hungarian, magyar, hu, hun
+Interlingua, Interlingua, Interlingua, ia, ina
+Indonesian, Endonezce, Bahasa Indonesia, id, ind
+Interlingue, Interlingue dili, Originally called Occidental; then Interlingue after WWII, ie, ile
+Irish, İrlandaca, Gaeilge, ga, gle
+Igbo, Igbo dili, Asụsụ Igbo, ig, ibo
+Inupiaq, Inupiaq dili, Iñupiaq, Iñupiatun, ik, ipk
+Ido, Ido dili, Ido, io, ido
+Icelandic, İzlandaca, Íslenska, is, isl
+Italian, Italian, Italiano, it, ita
+Inuktitut, Eskimo dili, ᐃᓄᒃᑎᑐᑦ, iu, iku
+Japanese, Japanese, 日本語 (にほんご), ja, jpn
+Javanese, Cavaca, ꦧꦱꦗꦮ, Basa Jawa, jv, jav
+Kalaallisut, Greenlandic, Kalaallisut, Grönland, kalaallisut, kalaallit oqaasii, kl, kal
+Kannada, Kanada dili, ಕನ್ನಡ, kn, kan
+Kanuri, Kanuri dili, Kanuri, kr, kau
+Kashmiri, Kashmiri dili, कश्मीरी, كشميري‎, ks, kas
+Kazakh, Kazakça, қазақ тілі, kk, kaz
+Khmer, Khmer dili, ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ, km, khm
+Kikuyu, Gikuyu, Kikuyu / Gikuyu, Gĩkũyũ, ki, kik
+Kinyarwanda, Kinyarwanda dili, Ikinyarwanda, rw, kin
+Kyrgyz, Kırgız, Кыргызча, Кыргыз тили, ky, kir
+Komi, Komi dili, коми кыв, kv, kom
+Kongo, Kongo dili, Kikongo, kg, kon
+Korean, Korean, 한국어, ko, kor
+Kurdish, Kürtçe, Kurdî, كوردی‎, ku, kur
+Kwanyama, Kuanyama, Kwanyama, Kuanyama, Kuanyama, kj, kua
+Latin, Latin, latine, lingua latina, la, lat
+Luxembourgish, Letzeburgesch, Lüksemburgca / Letzeburgesch, Lëtzebuergesch, lb, ltz
+Ganda, Ganda dili, Luganda, lg, lug
+Limburgish, Limburgan, Limburger, Limburgish, Limburgan, Limburger, Limburgs, li, lim
+Lingala, Lingala dili, Lingála, ln, lin
+Lao, Lao dili, ພາສາລາວ, lo, lao
+Lithuanian, Litvanca, lietuvių kalba, lt, lit
+Luba-Katanga, Luba-Katanga dili, Tshiluba, lu, lub
+Latvian, Letonca, latviešu valoda, lv, lav
+Manx, Man dili, Gaelg, Gailck, gv, glv
+Macedonian, Makedonca, македонски јазик, mk, mkd
+Malagasy, Malgaşça, fiteny malagasy, mg, mlg
+Malay, Malay dili, bahasa Melayu, بهاس ملايو‎, ms, msa
+Malayalam, Malayalam dili, മലയാളം, ml, mal
+Maltese, Maltaca, Malti, mt, mlt
+Māori, Māori, te reo Māori, mi, mri
+Marathi (Marāṭhī), Marathi (Marā andhī), मराठी, mr, mar
+Marshallese, Marşal Dili, Kajin M̧ajeļ, mh, mah
+Mongolian, Mongolca, Монгол хэл, mn, mon
+Nauruan, Nauruca, Dorerin Naoero, na, nau
+Navajo, Navaho, Navajo, Navaho, Diné bizaad, nv, nav
+Northern Ndebele, Kuzey Ndebele, isiNdebele, nd, nde
+Nepali, Nepal dili, नेपाली, ne, nep
+Ndonga, Ndonga dili, Owambo, ng, ndo
+Norwegian Bokmål, Norveççe , Norsk bokmål, nb, nob
+Norwegian Nynorsk, Norveççe (Nynorsk), Norsk nynorsk, nn, nno
+Norwegian, Norveçce, Norsk, no, nor
+Nuosu, Nuosu, ꆈꌠ꒿ Nuosuhxop, ii, iii
+Southern Ndebele, Güney Ndebele, isiNdebele, nr, nbl
+Occitan, Oksitanca, occitan, lenga d'òc, oc, oci
+Ojibwe, Ojibwa, Ojibwe, Ojibwa, ᐊᓂᔑᓈᐯᒧᐎᓐ, oj, oji
+Old Church Slavonic, Church Slavonic, Old Bulgarian, Eski Kilise Slavcası, Kilise Slavcası, Eski Bulgarca, ѩзыкъ словѣньскъ, cu, chu
+Oromo, Oromo dili, Afaan Oromoo, om, orm
+Oriya, Oriya dili, ଓଡ଼ିଆ, or, ori
+Ossetian, Ossetic, Osetya, Ossetic, ирон æвзаг, os, oss
+(Eastern) Punjabi, (Doğu) Pencapça, ਪੰਜਾਬੀ, pa, pan
+Pāli, Pāli, पाऴि, pi, pli
+Persian (Farsi), Farsça, فارسی, fa, fas
+Polish, Polish, język polski, polszczyzna, pl, pol
+Pashto, Pushto, Peştu, Pushto, پښتو, ps, pus
+Portuguese, Portekizce, Português, pt, por
+Quechua, Keçuva dili, Runa Simi, Kichwa, qu, que
+Romansh, Romanşça, rumantsch grischun, rm, roh
+Kirundi, Kirundi Dili, Ikirundi, rn, run
+Romanian, Romanian, Română, ro, ron
+Russian, Rusça, Русский, ru, rus
+Sanskrit (Saṁskṛta), Sanskritçe (Sanskritçe), संस्कृतम्, sa, san
+Sardinian, Sardinyaca, sardu, sc, srd
+Sindhi, Sintçe, सिन्धी, سنڌي، سندھی‎, sd, snd
+Northern Sami, Kuzey Sami dili, Davvisámegiella, se, sme
+Samoan, Samoaca, gagana fa'a Samoa, sm, smo
+Sango, Sango dili, yângâ tî sängö, sg, sag
+Serbian, Sırpça, српски језик, sr, srp
+Scottish Gaelic, Gaelic, İskoç Galcesi, Galce, Gàidhlig, gd, gla
+Shona, Shona dili, chiShona, sn, sna
+Sinhalese, Sinhala, Sinhalese, Sinhala, සිංහල, si, sin
+Slovak, Slovak, slovenčina, slovenský jazyk, sk, slk
+Slovene, Slovence, slovenski jezik, slovenščina, sl, slv
+Somali, Somalice, Soomaaliga, af Soomaali, so, som
+Southern Sotho, Güney Sotho Dili, Sesotho, st, sot
+Spanish, İspanyolca, Español, es, spa
+Sundanese, Sunadalı dili, Basa Sunda, su, sun
+Swahili, Svahili dili, Kiswahili, sw, swa
+Swati, Swati dili, SiSwati, ss, ssw
+Swedish, İsveççe, svenska, sv, swe
+Tamil, Tamil, தமிழ், ta, tam
+Telugu, Telugu dili, తెలుగు, te, tel
+Tajik, Tacik dili, тоҷикӣ, toçikī, تاجیکی‎, tg, tgk
+Thai, Tay dili, ไทย, th, tha
+Tigrinya, Tigrinya Dili, ትግርኛ, ti, tir
+Tibetan Standard, Tibetan, Central, Tibet Standardı, Tibet, Orta, བོད་ཡིག, bo, bod
+Turkmen, Türkmence, Türkmen, Түркмен, tk, tuk
+Tagalog, Filipin dili, Wikang Tagalog, tl, tgl
+Tswana, Tswana dili, Setswana, tn, tsn
+Tonga (Tonga Islands), Tonga (Tonga Adaları), faka Tonga, to, ton
+Turkish, Türkiye Cumhuriyeti, Türkçe, tr, tur
+Tsonga, Tsonga dili, Xitsonga, ts, tso
+Tatar, Tatarca, татар теле, tatar tele, tt, tat
+Twi, Twi dili, Twi, tw, twi
+Tahitian, Tahitice, Reo Tahiti, ty, tah
+Uyghur, Uygurca, ئۇيغۇرچە‎, Uyghurche, ug, uig
+Ukrainian, Ukraynaca, Українська, uk, ukr
+Urdu, Urduca, اردو, ur, urd
+Uzbek, Özbekçe, Oʻzbek, Ўзбек, أۇزبېك‎, uz, uzb
+Venda, Venda dili, Tshivenḓa, ve, ven
+Vietnamese, Vietnam dili, Tiếng Việt, vi, vie
+Volapük, Volapük, Volapük, vo, vol
+Walloon, Wallon dili, walon, wa, wln
+Welsh, Galce, Cymraeg, cy, cym
+Wolof, Volof dili, Wollof, wo, wol
+Western Frisian, Batı Frizcesi, Frysk, fy, fry
+Xhosa, Xhosa dili, isiXhosa, xh, xho
+Yiddish, Eski İbranice, ייִדיש, yi, yid
+Yoruba, Yoruba Dili, Yorùbá, yo, yor
+Zhuang, Chuang, Zhuang, Chuang, Saɯ cueŋƅ, Saw cuengh, za, zha
+Zulu, Zulu dili, isiZulu, zu, zul
